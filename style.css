@@ -1,0 +1,65 @@
+@font-face { font-family: 'HSGyoulnoonkot'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/HSGyoulnoonkot.woff') format('woff'); font-weight: normal; font-style: normal; }
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css); .nanumgothic * { font-family: 'Nanum Gothic', sans-serif; }
+
+body {
+	background-image : url("img/pattern_2.png");
+	background-repeat : repeat;
+	background-position: top;
+	background-size : 1300px;
+	margin:0px;
+	font-family : Nanum Gothic;
+}
+
+
+.img{
+	margin:auto;
+	text-align:center;
+	margin-top:190px;
+	margin-bottom:120px;
+}
+
+#img_logo{
+	border-color:white;
+	border : solid 2px;
+}
+
+.title{
+	font-family: HSGyoulnoonkot;
+	color:white;
+	font-size:50px;
+	margin-left:30px;
+}
+
+label {
+	font-size:13px;
+	margin-top : 5px;
+	margin-bottom : 1px;
+}
+
+#table_div{
+	margin : 10vw;
+}
+
+
+
+#login{
+	margin:auto;
+	position:relative;
+	margin-right:82vw;
+	top:50%; left:40%;
+	margin-top:-100px;
+}
+
+.search_title{
+	font-family:Nanum Gothic;
+	color:white;
+	font-size:30px;
+	margin-left:10px;
+}
+#dropdown{
+	font-family:Nanum Gothic;
+	font-size:13px;
+	margin-left:20px;
+	margin-top : 5px;
+	margin-bottom : 1px;
+}
